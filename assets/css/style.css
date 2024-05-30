@@ -4,11 +4,11 @@
 }
 
 .container-1 {
-   background-image: url(/WD-MIDTERMS-main/assets/img/360_F_437538930_0ZxXkdZDmitKxrHwyZbvWszCKzRPFwu5.jpg);
+   background-image: url(/assets/img/360_F_437538930_0ZxXkdZDmitKxrHwyZbvWszCKzRPFwu5.jpg);
    background-size: auto;
    background-position: center;
    position: relative;
-   height: 50vh;
+   height: 100vh;
    font-family: Arial, Helvetica, sans-serif;
 }
 
